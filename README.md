@@ -46,7 +46,7 @@ According to our analysis, at least 4% of false triples in these datasets are fa
 
 This means that some test cases in these datasets can be easily solved by checking whether a given triple is contained in a knowledge graph or not.
 
-According to our analysis, 77.26% of the Synthetic dataset and 8.58% of the Real-World dataset are already contained in [English DBpedia](https://wiki.dbpedia.org/develop/datasets/downloads-2016-10).
+According to our analysis, 77.26% of the Synthetic dataset and 8.58% of the Real-World dataset are already contained in the knowledge graph, [English DBpedia](https://wiki.dbpedia.org/develop/datasets/downloads-2016-10).
 
 ## Our dataset
 
