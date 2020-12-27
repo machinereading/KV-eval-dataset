@@ -74,3 +74,16 @@ These makes our dataset more reasonable and challenging to evaluate the fact che
 The statistics of all the datasets in this repository are as follows:
 
 <img src="./images/figure-1.png" width="80%" height="80%">
+
+## Licenses
+* `CC BY-NC-SA` [Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+* If you want to commercialize this resource, [please contact to us](http://mrlab.kaist.ac.kr/contact)
+
+## Publisher
+[Machine Reading Lab](http://mrlab.kaist.ac.kr/) @ KAIST
+
+## Contact
+Jiseong Kim. `jiseong@kaist.ac.kr`, `jiseong@gmail.com`
+
+## Acknowledgement
+This work was supported by Institute of Information & Communications Technology Planning & Evaluation(IITP) grant funded by the Korea government(MSIT) (2013-2-00109, WiseKB: Big data based self-evolving knowledge base and reasoning platform).
