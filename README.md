@@ -70,11 +70,11 @@ THE_맨파워!!!	artist	모닝구무스메	o
 
 Our dataset is constructed to solve the afore-mentioned issues in the two ways:
 
-1. **False triples are manually checked to prevent false negatives.** 
+**1. False triples are manually checked to prevent false negatives.** 
 
 Specifically, we labeled a given triple as false if there is no Wikipedia article that contains a sentence supporting that the given triple is true.
 
-2. **True triples are included in our dataset only if the given triple is not contained in the knowledge graph, K-Box.**
+**2. True triples are included in our dataset only if the given triple is not contained in the knowledge graph, K-Box.**
 
 These makes our dataset more reasonable and challenging to evaluate the fact checking capability on newly found triples missing in a knowledge graph than the publicly available datasets. 
 
