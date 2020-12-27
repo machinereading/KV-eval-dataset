@@ -71,6 +71,8 @@ Our dataset is constructed to solve the afore-mentioned issues in the publicly a
 
 These makes our dataset more reasonable and challenging to evaluate the fact checking capability on newly found triples missing in a knowledge graph than the publicly available datasets. 
 
+## Statistics
+
 The statistics of all the datasets in this repository are as follows:
 
 <img src="./images/figure-1.png" width="80%" height="80%">
