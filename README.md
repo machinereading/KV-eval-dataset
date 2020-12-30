@@ -44,7 +44,7 @@ Therefore, these datasets contain false-labeled true triples (false negatives) t
 
 According to our analysis, at least 4% of false triples in these datasets are false negatives.
 
-**2. Some true triples in these datasets are already contained in the existing knowledge graph, English DBpedia.**
+**2. Some true triples in these datasets are already contained in the knowledge graph, English DBpedia.**
 
 This means that some test cases in these datasets can be easily solved by checking whether a given triple is contained in English DBpedia or not.
 
