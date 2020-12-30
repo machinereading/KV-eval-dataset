@@ -46,9 +46,9 @@ According to our analysis, at least 4% of false triples in these datasets are fa
 
 **2. Some true triples in these datasets are already contained in the existing knowledge graph, English DBpedia.**
 
-This means that some test cases in these datasets can be easily solved by checking whether a given triple is contained in a knowledge graph or not.
+This means that some test cases in these datasets can be easily solved by checking whether a given triple is contained in English DBpedia or not.
 
-According to our analysis, 77.26% of the Synthetic dataset and 8.58% of the Real-World dataset are already contained in the knowledge graph, English DBpedia.
+According to our analysis, 77.26% of the Synthetic dataset and 8.58% of the Real-World dataset are already contained in English DBpedia.
 
 ## Our dataset
 
@@ -76,7 +76,7 @@ Specifically, we labeled a given triple as false if there is no Wikipedia articl
 
 **2. True triples are included in our dataset only if the given triple is not in the knowledge graph, K-Box.**
 
-These makes our dataset more reasonable and challenging to evaluate the fact checking capability on newly found triples missing in a knowledge graph than the publicly available datasets. 
+This makes our dataset more reasonable and challenging to evaluate the fact checking capability on newly found triples missing in a knowledge graph than the publicly available datasets. 
 
 ## Statistics
 
